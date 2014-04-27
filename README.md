@@ -1,2 +1,2 @@
-NES-Controller-SIPO
-===================
+NES Controller Serial to Parallel
+=================================
